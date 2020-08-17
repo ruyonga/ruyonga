@@ -1,16 +1,19 @@
-### Hi there 👋
+# Yo! Welcome
 
-<!--
-**ruyonga/ruyonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniel Ruyonga, my friends call me #Ru. 
+I am a full stack software engineer with  4 years of software engineering and development on mobile, web and backend. I passionate about solving problems that affect the bigger population, basically working on tech solutions that solve people's basic needs; health, transport, housing, food, communication... 
+### Contact Info.
+✉️:druyonga@gmail.com
+📍 Kampala,Uganda 🇺🇬
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technology stacks.
+ 🔥 🔥 🔥 🔥 🔥   Android application development(Java, Kotlin)
+ 🔥 🔥 🔥 🔥      Elixir/ Phoenix framework
+ 🔥 🔥 🔥 🔥      Nodejs/VueJs
+ 🔥 🔥 🔥         PHP/Laravel/CodeIgnitor
+ 
+### Experience Industries.
+- Telecommunication
+- Transportation
+- Fintech
+- Health tech
