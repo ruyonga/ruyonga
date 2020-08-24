@@ -8,10 +8,10 @@ I am a full stack software engineer with  5 years of software engineering and de
 - @ruyonga (everywhere)
 
 ### Technology stacks.
-- 🔥 🔥 🔥 🔥 🔥   Android application development(Java, Kotlin)
-- 🔥 🔥 🔥 🔥      Elixir/ Phoenix framework
-- 🔥 🔥 🔥 🔥      Nodejs/VueJs
-- 🔥 🔥 🔥         PHP/Laravel/CodeIgnitor
+- Android application development(Java, Kotlin)
+- Elixir/ Phoenix framework
+- Nodejs/VueJs
+- PHP/Laravel/CodeIgnitor
  
 ### Experience Industries.
 - Telecommunication
