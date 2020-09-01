@@ -13,7 +13,7 @@ I am a full stack software engineer with  5 years of software engineering and de
 - Nodejs/VueJs
 - PHP/Laravel/CodeIgnitor
  
-### Experience Industries.
+### Industry Experience.
 - Telecommunication
 - Transportation
 - Fintech
