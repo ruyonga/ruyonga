@@ -5,6 +5,7 @@ I am a full stack software engineer with  8+ years of software engineering and d
 ### Contact Info.
 - ✉️ druyonga@gmail.com
 - 📍 Kampala,Uganda 🇺🇬
+- 📍 Kampala,Uganda 🇯🇵
 - @ruyonga (everywhere)
 
 ### Technology stacks.
@@ -18,3 +19,4 @@ I am a full stack software engineer with  8+ years of software engineering and d
 - Transportation
 - Fintech
 - Health tech
+- Stock Market and Investment
