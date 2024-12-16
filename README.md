@@ -52,8 +52,6 @@ I’m currently interested in roles that involve **AI and Machine learning-based
 ---
 
 ### 🎯 Fun Fact
-![dan by chatgpt](https://github.com/user-attachments/assets/793f0772-857d-4854-af8b-e5818ada6d37)
-- ChatGpt based on what you know about me generate a picture representation of me
 
 I’m also learning **Japanese** 🇯🇵 and exploring how culture intersects with technology. I’m always up for practicing some **日本語** or having a chat about how we can connect people in low resources to areas of abundnace through tech.  
 
