@@ -11,7 +11,6 @@ My mission? To create **impactful tech solutions** that address fundamental need
 - **Tokyo, Japan** 🇯🇵  
 
 ### 📫 Contact Me
-- ✉️ **Email:** druyonga@gmail.com  
 - 🧑‍💻 **Handle:** @ruyonga (on all platforms)
 - 🔗 **LinkedIn** [@ruyongadaniel](https://www.linkedin.com/in/ruyongadaniel/)
 
