@@ -12,7 +12,7 @@ My mission? To create **impactful tech solutions** that address fundamental need
 
 ### 📫 Contact Me
 - 🧑‍💻 **Handle:** @ruyonga (on all platforms)
-- 🔗 **LinkedIn** [@ruyongadaniel](https://www.linkedin.com/in/ruyongadaniel/)
+- 🔗 **LinkedIn** [@ruyongadaniel](https://www.linkedin.com/in/ruyonga/)
 
 ---
 
@@ -26,7 +26,8 @@ Here are some tools and frameworks I work with:
 
 ## 🌟 Industry Experience
 I’ve contributed to the following industries:  
-- **Telecommunication**  
+- **Telecommunication**
+- **Education**
 - **Transportation**  
 - **Fintech**  
 - **Health Tech**
